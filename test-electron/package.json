@@ -15,7 +15,7 @@
     "react-scripts": "3.4.1",
     "typescript": "~3.7.2"
   },
-  "main": "public/electron-starter.js",
+  "main": "public/electron.js",
   "scripts": {
     "start": "react-scripts start && yarn electron",
     "build": "react-scripts build",
